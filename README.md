@@ -32,3 +32,19 @@ attractive to the broader market.
 
 
 # [Project 2: Streaming Service Trends Analysis](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/)
+
+Streaming services have gained incredible popularity in the last two decades, and they have accrued tens of thousands of titles in this time. Understanding how certain aspects of these titles have changed over time provides predictive power for what to expect in future title releases and can help companies plan out future movie and television projects. This project will analyze all the titles released by four major streaming services (Disney+, Hulu, Netflix, and Prime) from July 2006 to November 2021.
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_FilmLocationsOverTime_full.png)
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_NumTitlesOverTime_full.png)
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_MovieLengthOverTime_full.png)
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_NumTVSeasonsOverTime_full.png)
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_PercentMoviesTV_full.png)
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_PercentRatings_full.png)
+
+![alt text](https://github.com/JaytaAnalysis/StreamingServiceAnalysisProject/blob/main/DataVizzes/DataViz_ActorsRoles_full.png)
